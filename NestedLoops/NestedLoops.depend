@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1622736836 source:d:\documents\cprojects\nestedloops\main.c
+	<stdio.h>
+
+1622749928 source:d:\documents\cprojects\nestedloops\guessnumber.c
+	<stdio.h>
+	<time.h>
+

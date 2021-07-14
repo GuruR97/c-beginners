@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1622592079 source:d:\documents\cprojects\sampleapp\test.c
+	<stdio.h>
+
+1584205420 source:d:\documents\cprojects\sampleapp\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1622592299 source:d:\documents\cprojects\sampleapp\test2.c
+	<stdio.h>
+
+1622651255 source:d:\documents\cprojects\sampleapp\test4.c
+	<stdio.h>
+
+1622652499 source:d:\documents\cprojects\sampleapp\rectanglearea.c
+	<stdio.h>
+
+1622653143 source:d:\documents\cprojects\sampleapp\enumchallenge.c
+	<stdio.h>
+
