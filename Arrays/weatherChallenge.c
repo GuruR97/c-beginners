@@ -7,6 +7,7 @@ int main()
     double RainfallStats[5][12] =
 
     {
+        //initialization of year and month rainfall values. Hardcoding them but would be interesting if user could input them
 
         {4.3,4.3,4.3,3.0,2.0,1.2,0.2,0.2,0.4,2.4,3.5,6.6},
 
