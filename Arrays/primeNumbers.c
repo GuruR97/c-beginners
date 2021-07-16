@@ -44,4 +44,5 @@ int main()
 
 
     //Honestly I don't really get this program. The prime number algo is way too confusing, so worth reviewing. The output isn't even right
+    //lol
 }
